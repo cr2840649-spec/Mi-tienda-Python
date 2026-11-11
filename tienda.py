@@ -17,7 +17,7 @@ print (Leche.nombre)
 print (Leche.precio)
 Huevo= Producto ("Huevo", 60)
 print (Huevo.nombre )
-print (Huevo.precio) 
+print (Huevo.precio)
 
 def calcula_total():
      total = Pan.precio + Leche.precio + Huevo.precio
